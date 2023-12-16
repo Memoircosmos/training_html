@@ -1,0 +1,61 @@
+.classe_liens {
+color: rgb(162, 226, 43);
+font-size: 30px;
+}
+
+a:hover {
+    color: yellow;
+    }
+
+
+h1 {
+    color: crimson;
+    text-align: center;
+    background-image: url("image/925482.jpg");
+    background-attachment: fixed;
+    background-position: top;
+    background-size: cover;
+    color: white;
+    padding: 150px;
+}
+
+.carre {
+    background-color: aqua;
+    border: 5px #eb3434 double ;
+    text-align: center;
+    border-radius: 50px;
+}
+.important,h2 {
+color:yellow;
+font-size: 30px;
+font-style: italic;
+text-align: center;
+}
+p {
+font-family: 'Courier New', Courier, monospace;}
+
+body {
+
+background: linear-gradient( #4b6cb7 , #182848 );
+}
+
+.chat_beau {
+border: #eb3434 double;
+border-radius: 50px;
+
+}
+.les_liens {
+    text-align: center;
+    border: #eb3434 double;
+    border-radius: 60px;
+
+}
+
+img:hover {
+
+    opacity: 0.5;
+}
+
+a:hover + h2 {
+color: #eb3434;
+}
